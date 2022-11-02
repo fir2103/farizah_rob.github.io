@@ -1,0 +1,53 @@
+---
+title: "About Me"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+### **Education**
+
+**Columbia University, Mailman School of Public Health**			              	  
+Master of Science in Biostatistics (Track: Theory and Methods)					       
+
+**University of Michigan**
+Bachelor of Science in Statistics	
+
+### **Work & Research Experience**
+
+**Center for Healthcare Outcomes and Policy (CHOP), Michigan Medicine**                             
+*Research Technician Senior (Full-time)*					                      	  
+
+- Supported the research team of the Section Head of General Surgery by providing statistical consultation on health-services research projects 
+- Utilized SAS and Stata to conduct survival analysis, multivariable logistic regression and propensity score matching for three manuscripts
+- Led analyses of two projects studying contemporary outcomes of elective and emergent parastomal hernia repair in older adults using Medicare claims data
+- Co-authored (second author) a paper, publisehd in the Journal of the American Medical Association (JAMA)
+
+**University of Michigan, Department of Biostatistics**                                             
+*Research Assistant*					                    	             	  		    
+
+- Led the statistical analyses of a project studying whether a low-risk thyroid tumor diagnosis has been used in recent years using data from the National Cancer Registry (SEER program)
+Used Stata and R for analyses (spatial plot, incidence rate plots, test for trend) 
+- Co-authored (second author) a scientific manuscript reviewing the findings of the study, published in The Journal of Clinical Endocrinology & Metabolism in July 2022 
+
+**Michigan Neuroscience Institute**						                      
+*Research Assistant*				      				            	                      
+
+- Conducted data analyses in R to explore behavioral and hormonal responses of rats subjected to social defeat and environmental enrichment
+- Co-authored an abstract, published in the Society for Neuroscience, alongside a scientific manuscript overviewing the results (currently in preparation)
+
+**University of Michigan, Department of Neuroscience** 					                
+*Undergraduate Teaching Assistant (Part-time)*        				            	   
+
+- Worked as a teaching assistant for Neurosci 623: Neuroscience Graduate Program “Bootcamp” Statistics Module
+- Assisted in enhancing explanations of common statistical concepts through suggestions to the primary instructor 
+- Edited and captioned pre-recorded lecture videos to improve student engagement 
+
+### **Additional**
+
+**Computing Skills:** Strong knowledge of MS Word, Excel, Powerpoint and statistical applications such as R, SAS and STATA. Beginner knowledge of Python and C++. 
+
+**Campus Involvement:** Women in Science and Engineering Residence Program, Statistics Directed Reading Program, Undergraduate Research Opportunity Program, Michigan Dining Staff
+
